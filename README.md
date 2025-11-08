@@ -17,6 +17,9 @@ This project demonstrates a complete AI chatbot pipeline:
 
 ---
 
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/7d6a2a29-5290-4419-87cc-8a4c51d4745f" />
+
+
 ## 🧩 Tech Stack
 
 | Layer | Technology | Description |
